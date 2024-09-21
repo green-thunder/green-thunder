@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="Mosquitto">
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Odoo-%230A0A0A.svg?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
