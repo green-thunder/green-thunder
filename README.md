@@ -30,27 +30,6 @@
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=green-thunder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=green-thunder&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=green-thunder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</p>
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote">
-</p>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=green-thunder&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
-</p>
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=green-thunder&icon=0&color=3" alt="Profile Visits">
 </p>
