@@ -3,6 +3,10 @@
   <a href="https://www.linkedin.com/in/nodirbek-kamalov/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+- 🔭 I’m currently working on **Aurora+**
+
+- 🌱 I’m currently learning **Numba**
+
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
