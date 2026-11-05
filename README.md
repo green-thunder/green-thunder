@@ -24,7 +24,3 @@ At CareTech I build the integration layer of a Hospital Information System. Labo
 ### Stack
 
 <picture><source media="(max-width: 600px) and (pointer: coarse)" srcset="assets/stack-phone.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Stack: Java, Python, SQL, C; HL7, ASTM, LIS/HIS, TCP/IP, RS-232; FastAPI, Odoo, PostgreSQL, REST, microservices; Docker, Kubernetes, Linux, Git, AI agents, YOLO, OpenCV"></picture>
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/nodirbek-kamalov/) · [Email](mailto:kamolovnodirbek1@gmail.com)
