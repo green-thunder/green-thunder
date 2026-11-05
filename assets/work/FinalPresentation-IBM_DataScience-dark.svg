@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210"><defs></defs><rect x=".5" y=".5" width="579" height="209" rx="12" fill="#0f0f10" stroke="#262626"/>
+<rect x="28" y="28" width="22" height="2" fill="#10b981"/>
+<text x="28" y="66" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="-.3" fill="#fafafa">SpaceX Landing Prediction</text>
+<text x="552" y="66" text-anchor="end" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#525252">↗</text>
+<text x="28" y="90" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#737373">FinalPresentation-IBM_DataScience</text>
+<text x="28" y="122" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a3a3a3">IBM Data Science capstone: from the SpaceX API</text>
+<text x="28" y="142" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a3a3a3">to a Dash dashboard and ML models.</text>
+<rect x="28" y="158" width="106" height="26" rx="6" fill="none" stroke="#262626"/><text x="81" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#a3a3a3">scikit-learn</text><rect x="142" y="158" width="49" height="26" rx="6" fill="none" stroke="#262626"/><text x="167" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#a3a3a3">Dash</text><rect x="199" y="158" width="63" height="26" rx="6" fill="none" stroke="#262626"/><text x="231" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#a3a3a3">Folium</text>
+<circle cx="485" cy="171" r="5" fill="#DA5B0B"/>
+<text x="552" y="175" text-anchor="end" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#737373">Jupyter</text></svg>

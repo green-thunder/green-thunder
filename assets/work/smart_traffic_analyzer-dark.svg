@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210"><defs></defs><rect x=".5" y=".5" width="579" height="209" rx="12" fill="#0f0f10" stroke="#262626"/>
+<rect x="28" y="28" width="22" height="2" fill="#10b981"/>
+<text x="28" y="66" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="-.3" fill="#fafafa">Smart Traffic Analyzer</text>
+<text x="552" y="66" text-anchor="end" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#525252">↗</text>
+<text x="28" y="90" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#737373">smart_traffic_analyzer</text>
+<text x="28" y="122" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a3a3a3">Real-time vehicle detection, tracking and zone</text>
+<text x="28" y="142" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a3a3a3">counting from a live camera feed.</text>
+<rect x="28" y="158" width="63" height="26" rx="6" fill="none" stroke="#262626"/><text x="60" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#a3a3a3">YOLOv8</text><rect x="99" y="158" width="85" height="26" rx="6" fill="none" stroke="#262626"/><text x="142" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#a3a3a3">ByteTrack</text><rect x="192" y="158" width="63" height="26" rx="6" fill="none" stroke="#262626"/><text x="224" y="175" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12" fill="#a3a3a3">OpenCV</text>
+<circle cx="493" cy="171" r="5" fill="#3572A5"/>
+<text x="552" y="175" text-anchor="end" font-family="Inter,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#737373">Python</text></svg>
