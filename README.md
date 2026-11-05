@@ -1,45 +1,35 @@
-<h1 align="center">Nodirbek Kamalov</h1>
-<p align="center"><b>Software Engineer @ CareTech</b> · Healthcare integrations (LIS/HIS, HL7, ASTM) · Java · Python</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nodirbek-kamalov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="assets/hero.svg" width="100%" alt="Nodirbek Kamalov, Healthcare Integration Engineer">
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nodirbek-kamalov/"><img src="assets/linkedin.svg" height="46" alt="Connect on LinkedIn"></a>
 </p>
 
-```console
-$ git log --oneline career
-a7f3c21 (HEAD -> main) feat: Software Engineer @ CareTech
-9e1b4d8 feat: IBM Data Science + NVIDIA CUDA
-6c2a9f0 merge: Bachelor's, Business Administration
-4b0f6a1 test: HackerRank Python + SQL (Advanced)
-3a9c2e7 feat: internship, IoT on ESP8266 + RFID
-2f7d1c4 feat: Python certs: Kaggle, freeCodeCamp
-0000001 init: hello, world
-```
+<img src="assets/div-flow.svg" width="100%" alt="What I build">
 
-### What I do
+I build the software that lets laboratory analyzers and hospital systems talk to each other. At **CareTech** I work on the integration layer of a Hospital Information System: middleware that takes raw **ASTM** and **HL7** output from 50+ analyzers across 12+ brands and delivers it to the LIS in real time, with no manual data entry.
 
-I build the software that lets laboratory analyzers and hospital systems talk to each other. At CareTech I work on the integration layer of a Hospital Information System: middleware that takes raw ASTM and HL7 output from 50+ analyzers across 12+ brands and delivers it to the LIS in real time, with no manual data entry.
+<img src="assets/pipeline.svg" width="100%" alt="Data flow: lab analyzers send ASTM and HL7 messages to the middleware, which delivers JSON results to the LIS">
 
-### Tech
+<img src="assets/div-log.svg" width="100%" alt="Career log">
+<img src="assets/terminal.svg" width="100%" alt="My career as a git log">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![HL7](https://img.shields.io/badge/HL7-CC0000?style=flat-square)
-![ASTM](https://img.shields.io/badge/ASTM-555555?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+<img src="assets/div-stack.svg" width="100%" alt="Stack">
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Java, Python, HL7, ASTM, FastAPI, Odoo, PostgreSQL, Docker, Kubernetes, AI agents and more">
 
-### Featured
+<img src="assets/div-projects.svg" width="100%" alt="Featured projects">
+<p align="center">
+  <a href="https://github.com/green-thunder/claude-code-account-switcher"><img src="assets/cards/claude-code-account-switcher.svg" width="49%" alt="Claude Code Account Switcher"></a>
+  <a href="https://github.com/green-thunder/smart_traffic_analyzer"><img src="assets/cards/smart_traffic_analyzer.svg" width="49%" alt="Smart Traffic Analyzer"></a>
+  <a href="https://github.com/green-thunder/http-server-python"><img src="assets/cards/http-server-python.svg" width="49%" alt="HTTP Server from Scratch"></a>
+  <a href="https://github.com/green-thunder/environmental_sensing_node_state_classification"><img src="assets/cards/environmental_sensing_node_state_classification.svg" width="49%" alt="Sensor State Classifier"></a>
+  <a href="https://github.com/green-thunder/FinalPresentation-IBM_DataScience"><img src="assets/cards/FinalPresentation-IBM_DataScience.svg" width="49%" alt="SpaceX Landing Prediction"></a>
+  <a href="https://github.com/green-thunder/leetcode"><img src="assets/cards/leetcode.svg" width="49%" alt="LeetCode Solutions"></a>
+</p>
 
-| Project | What it is |
-|---|---|
-| [claude-code-account-switcher](https://github.com/green-thunder/claude-code-account-switcher) | macOS menu-bar app and CLI to switch Claude Code accounts and watch usage limits. Python + SwiftUI |
-| [http-server-python](https://github.com/green-thunder/http-server-python) | HTTP server built from scratch on raw sockets in Python |
-| [smart_traffic_analyzer](https://github.com/green-thunder/smart_traffic_analyzer) | Real-time vehicle detection, tracking and zone counting. YOLOv8, ByteTrack, OpenCV |
-| [environmental_sensing_node_state_classification](https://github.com/green-thunder/environmental_sensing_node_state_classification) | Sensor state classification with CatBoost on GPU and Optuna tuning |
-| [FinalPresentation-IBM_DataScience](https://github.com/green-thunder/FinalPresentation-IBM_DataScience) | IBM Data Science capstone: predicting SpaceX Falcon 9 landings |
-| [leetcode](https://github.com/green-thunder/leetcode) | LeetCode solutions in Python, C and JavaScript |
+<img src="assets/div-activity.svg" width="100%" alt="Activity">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/green-thunder/green-thunder/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/green-thunder/green-thunder/output/snake-light.svg">
+  <img width="100%" alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/green-thunder/green-thunder/output/snake-dark.svg">
+</picture>
