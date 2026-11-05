@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Nodirbek Kamalov, Software Engineer at CareTech. Lab analyzers send ASTM and HL7 data through middleware to the LIS / HIS."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><img src="assets/intro-light.svg" width="100%" alt="Nodirbek Kamalov, Software Engineer at CareTech. Lab analyzers send ASTM and HL7 data through middleware to the LIS / HIS."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg"><img src="assets/metrics-light.svg" width="100%" alt="50+ analyzers integrated, 12+ diagnostic brands, 10+ Odoo modules delivered, 2+ years at CareTech"></picture>
 
