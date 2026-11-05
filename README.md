@@ -38,7 +38,7 @@ I build the software that lets laboratory analyzers and hospital systems talk to
 | Project | What it is |
 |---|---|
 | [claude-code-account-switcher](https://github.com/green-thunder/claude-code-account-switcher) | macOS menu-bar app and CLI to switch Claude Code accounts and watch usage limits. Python + SwiftUI |
-| [doppi.ai](https://github.com/green-thunder/doppi.ai) | Landing page for an AI marketing platform for Uzbekistan. Next.js 15, TypeScript, Tailwind |
+| [http-server-python](https://github.com/green-thunder/http-server-python) | HTTP server built from scratch on raw sockets in Python |
 | [smart_traffic_analyzer](https://github.com/green-thunder/smart_traffic_analyzer) | Real-time vehicle detection, tracking and zone counting. YOLOv8, ByteTrack, OpenCV |
 | [environmental_sensing_node_state_classification](https://github.com/green-thunder/environmental_sensing_node_state_classification) | Sensor state classification with CatBoost on GPU and Optuna tuning |
 | [FinalPresentation-IBM_DataScience](https://github.com/green-thunder/FinalPresentation-IBM_DataScience) | IBM Data Science capstone: predicting SpaceX Falcon 9 landings |
